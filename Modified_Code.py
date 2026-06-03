@@ -1,4 +1,5 @@
 # Modified Code For Question 1 - From sigmoid to ReLU
+# Importing this script as "original" in jupyter
 
 import torch
 import torch.nn as nn
